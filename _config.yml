@@ -1,0 +1,15 @@
+remote_theme: coursweb/jk-theme
+title: Off-topic
+description: Les hors-sujet.
+lang: fr-FR
+chapters:
+ - title: Cours-web
+   url: https://cours-web.ch/
+ - title: IA
+   url: https://cours-web.ch/off-topic/
+   
+# Content is split in three columns.   
+footer_col_1: <ul class="contact-list">
+  <li>Eracom, Lausanne</li>
+  <li>2026</li></ul>
+footer_col_2: <ul class="social-media-list"><li><a href="https://github.com/coursweb/off-topic">Lien Github</a></li></ul>
