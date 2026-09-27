@@ -11,12 +11,16 @@ Uketsu, youtubeur et écrivain japonais:
 - [Slides Figma](https://www.figma.com/slides/Oei1zKi6UyN0DiOs7IDPqA)
 - [Wikipédia](https://fr.wikipedia.org/wiki/Uketsu)
 
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="450" src="https://embed.figma.com/slides/Oei1zKi6UyN0DiOs7IDPqA/Book-Club---Uketsu?node-id=1-42&embed-host=share" allowfullscreen></iframe>
+
 #### Jeff VanderMeer
 
 Écrivain connu pour son roman Annihilation et la trilogie du Rempart sud.
 
 - [Slides Figma](https://www.figma.com/slides/xd6v0vQ3jCipoGRo8ZhnUD)
 - [Wikipédia](https://fr.wikipedia.org/wiki/Jeff_VanderMeer)
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="450" src="https://embed.figma.com/slides/xd6v0vQ3jCipoGRo8ZhnUD/Book-Club---Jeff-VanderMeer?node-id=1-42&embed-host=share" allowfullscreen></iframe>
 
 #### David Mitchell
 
