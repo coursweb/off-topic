@@ -18,4 +18,6 @@ Un set de slides créé pour un cours « Techniques créatives »
 - [Wikipédia](https://fr.wikipedia.org/wiki/Anne-Dauphine_Borione)
 
 
+#### The KLF (Bull Drummond)
+
 - The KLF : [slides](https://eduvaud-my.sharepoint.com/:p:/r/personal/pr51kln_eduvaud_ch/Documents/Fichiers%20%C3%A0%20partager/Briefs%20et%20supports/Pr%C3%A9sentations/Pr%C3%A9sentations%20Techniques%20Cr%C3%A9a/KLF_Drummond.pptx?d=w1960c4856ab24bc58cf22b869872f940&csf=1&web=1&e=JxiggO)
