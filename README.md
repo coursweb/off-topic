@@ -12,7 +12,6 @@ Présentations diverses sur toutes sortes de sujets.
 
 Voir [Design et art](design-art.html)
 
-
 ### Littérature
 
 - Uketsu, youtubeur et écrivain japonais
@@ -21,9 +20,15 @@ Voir [Design et art](design-art.html)
 
 Voir [Littérature](litterature.html)
 
-
 ### Jeux
 
-- Les jeux du studio Simogo: *Yearwalk, *[Device 6](https://fr.wikipedia.org/wiki/Device_6)*, etc.
-- Les jeux de Gareth Damian Martin: *In Other Waters*, *Citizen Sleeper*, le dessinateur [Guillaume Singelin](https://fr.wikipedia.org/wiki/Guillaume_Singelin).
+Présentations sur des expériences ludiques.
 
+- Les jeux du studio Simogo: *Yearwalk, *Device 6*, etc.
+- Les jeux de Gareth Damian Martin: *In Other Waters*, *Citizen Sleeper*, le dessinateur Guillaume Singelin.
+
+Voir [Jeux](jeux.html)
+
+### Musique
+
+- Autechre
