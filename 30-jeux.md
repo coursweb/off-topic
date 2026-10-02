@@ -29,7 +29,7 @@ Simogo est un studio indépendant basé en Suède, connu notamment pour les jeux
 
 #### Le design du jeu Daybreak
 
-Daybreak est un jeu 
+Daybreak est un jeu de plateau collaboratif, créé par les designers de jeu Matt Leacock et Matteo Menapace. La version originale est sortie en 2023.
 
 - [Slides Powerpoint](https://eduvaud-my.sharepoint.com/:p:/g/personal/pr51kln_eduvaud_ch/IQBfO0L6ygYIRa7HdgXRUxKqAZIghv2VBMX9VfVYsXQEU5Q?e=g4EwZe)
-
+- [Site officiel](https://daybreakgame.org/)
