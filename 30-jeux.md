@@ -8,7 +8,7 @@ Présentations sur des expériences ludiques.
 
 #### Les jeux de Gareth Damian Martin
 
-Gareth Damian Martin est un développeur de jeux britannique, auteur notamment de *In Other Waters* (sorti en 2020) et *Citizen Sleeper*.
+Gareth Damian Martin est un développeur de jeux britannique, auteur notamment de *In Other Waters* (sorti en 2020) et *Citizen Sleeper* (2022).
 
 - [Slides Figma](https://www.figma.com/deck/bLI5fcNHTGsiCaFqAoj4ie/Citizen-Sleeper---More?node-id=1-42&t=9GC80fAMaSldMBw0-1&scaling=min-zoom&content-scaling=fixed)
 - In Other Waters - [Wikipédia](https://fr.wikipedia.org/wiki/In_Other_Waters)
@@ -22,10 +22,10 @@ Gareth Damian Martin est un développeur de jeux britannique, auteur notamment d
 
 #### Les jeux du studio Simogo
 
-Simogo est un studio indépendant basé en Suède, connu notamment pour les jeux Year Walk, Device 6
+Simogo est un studio indépendant basé en Suède, connu notamment pour les jeux *Year Walk*, *Device 6*, *Sayonara Wild Hearts* et *Lorelei and the Laser Eyes*.
 
-- Les jeux du studio Simogo: *Yearwalk, *
-- Device 6 - [Wikipédia](https://fr.wikipedia.org/wiki/Device_6)*, etc.
+- [Site officiel](https://simogo.com/)
+- Device 6 - [Wikipédia](https://fr.wikipedia.org/wiki/Device_6)
 
 #### Le design du jeu Daybreak
 
